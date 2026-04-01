@@ -5,8 +5,9 @@
 ### [比特浏览器（BitBrowser）](https://www.bitbrowser.cn)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b49b4b5c-d85f-401d-b70b-5d1db2574e72" width="800" alt="比特浏览器">
+  <img src="https://github.com/user-attachments/assets/cd96a1d1-e85d-4fd0-a8d9-33f26fce79df" width="800" alt="指纹浏览器概览">
 </div>
+
 
 作为国内出海领域普及率领先的标杆级专业指纹浏览器，比特浏览器凭借高保真的浏览器环境模拟技术、全平台深度适配能力与极佳的稳定性，稳居跨境电商、多账号运营赛道的第一梯队。产品支持Windows、macOS、Android、iOS、Linux全主流操作系统，可实现多环境底层完全隔离、团队分级协作与超大规模账号批量管理，完美适配亚马逊、TikTok Shop、Facebook、谷歌等全球主流平台的全场景运营需求。价格体系上，基础版每月10美元起，同时为新手用户与轻量需求者提供永久免费套餐，相关优惠活动以品牌官方实时更新为准。
 
