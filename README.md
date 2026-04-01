@@ -156,13 +156,20 @@
 ### swSpy浏览器
 一次性付费的轻量反检测浏览器，按年付费即可使用全部功能，无月度付费压力，适配长期稳定的轻量运营需求。产品仅支持Windows系统，核心功能聚焦于基础的指纹隔离与隐私浏览。价格体系上，一次性付费39.90美元/年。
 
-### 多浏览器（MultiBrowser）
+### 多浏览器（MultiBrowser）（https://www.multibrowser.com/）
+<img width="1039" height="567" alt="image" src="https://github.com/user-attachments/assets/bafb0a63-dd01-4da6-9c60-19f5e2f56d7a" />
+
 俄语区终身制指纹浏览器，一次性付费即可永久使用，无任何后续付费成本，适配本地多账号基础隔离需求，性价比极高。产品仅支持Windows系统，功能覆盖基础的多账号环境隔离。价格方面，一次性付费2490卢布/终身。
 
-### Marketer 浏览器
+### Marketer 浏览器（https://www.marketerbrowser.com/）
+
+<img width="693" height="619" alt="image" src="https://github.com/user-attachments/assets/787f359e-bb9d-4274-b506-90721dd6d8d4" />
+
 专为数字营销人打造的指纹浏览器，深度集成了营销工具插件生态，一站式适配广告投放、竞品调研、社媒运营等全流程营销场景，无需额外搭配其他工具。产品支持Windows、macOS双系统，营销生态完善。价格体系上，基础版每月29美元起，同时提供永久免费套餐。
 
-### Che 浏览器
+### Che 浏览器（https://chebrowser.site/）
+<img width="833" height="470" alt="image" src="https://github.com/user-attachments/assets/a7f0754f-8593-44d0-a75b-b2ba795015ce" />
+
 按天计费的灵活型指纹浏览器，无需长期付费，完美适配短期项目、临时账号运营需求，可根据使用时长灵活付费，极大降低了短期项目的运营成本。产品支持Windows、macOS双系统，按天开通，灵活便捷。价格方面，每日5美元起。
 
 ### HydraHeaders
