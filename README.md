@@ -91,7 +91,7 @@
 
 全球知名匿名工具厂商Whoer VPN团队打造的反侦测浏览器，深度集成了IP匿名与指纹隔离能力，双重保障账号运营的隐私性与安全性，适配高隐私要求的跨境运营场景。产品支持Windows、macOS双系统，可实现IP与指纹的双重伪装，有效规避平台检测。价格方面，基础版每月10美元起，为用户提供7天免费试用权益。
 
-### 拉力猫浏览器（Lalicat）
+### 拉力猫浏览器（Lalicat）（https://www.lalimao.com/）
 <img width="1364" height="471" alt="image" src="https://github.com/user-attachments/assets/388f4079-0ffb-4f54-a8f0-c415a1392c82" />
 
 面向高端企业用户的企业级指纹浏览器，主打定制化指纹方案与专属技术支持，专为大型跨境企业与品牌方打造，可满足定制化的高阶运营需求。产品支持Windows、macOS双系统，提供专属的技术对接与运维支持。价格体系上，基础版每月59美元起，为意向用户提供3天免费试用权益。
@@ -165,12 +165,6 @@
 <img width="1373" height="642" alt="image" src="https://github.com/user-attachments/assets/055930fe-fe60-46b0-b3cb-d3b5c50c2e70" />
 
 俄语区轻量化反检测浏览器，主打一键切换指纹环境，适配个人多账号快速切换运营需求，操作简单，无需复杂的环境配置。产品仅支持Windows系统，体积小巧，运行流畅。价格体系上，基础版每月390卢布起，同时提供永久免费套餐。
-
-### Hefenat
-欧洲中端指纹浏览器，主打稳定的指纹环境与本地化运营适配，对欧盟区跨境电商场景适配性极强，可满足欧洲地区的长期稳定运营需求。产品支持Windows、macOS双系统，指纹库实时更新。价格方面，基础版每月29欧元起。
-
-### swSpy浏览器
-一次性付费的轻量反检测浏览器，按年付费即可使用全部功能，无月度付费压力，适配长期稳定的轻量运营需求。产品仅支持Windows系统，核心功能聚焦于基础的指纹隔离与隐私浏览。价格体系上，一次性付费39.90美元/年。
 
 ### 多浏览器（MultiBrowser）（https://www.multibrowser.com/）
 <img width="1039" height="567" alt="image" src="https://github.com/user-attachments/assets/bafb0a63-dd01-4da6-9c60-19f5e2f56d7a" />
